@@ -155,8 +155,6 @@ namespace CalendarApi.Controllers
                     var accessToken = await GenerateAccessTokenAsync(user);
                     var logintoken = "Success";
 
-
-
                     var response = new LoginResponse
                     {
                         Access = accessToken,
