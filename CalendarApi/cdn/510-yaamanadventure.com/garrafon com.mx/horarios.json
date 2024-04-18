@@ -1,0 +1,213 @@
+{
+  "Status": 200,
+  "Message": "OK",
+  "Data": {
+    "schedules": [
+      {
+        "Tour": "DM",
+        "Location": "DM",
+        "Date": [
+          "2022/02/26",
+          "2022/02/27",
+          "2022/03/07",
+          "2022/03/14"
+        ],
+        "ToDate": 0,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": false,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": [
+          {
+            "startDate": "2022/05/01",
+            "endDate": "2022/05/31",
+            "week": {
+              "Sunday": false,
+              "Monday": false,
+              "Tuesday": false,
+              "Wednesday": false,
+              "Thursday": false,
+              "Friday": false,
+              "Saturday": false
+            }
+          }
+        ]
+      },
+      {
+        "Tour": "GRENCO",
+        "Location": "IM",
+        "Date": null,
+        "ToDate": 2,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": [
+          {
+            "startDate": "2022/05/08",
+            "endDate": null,
+            "week": {
+              "Sunday": true,
+              "Monday": false,
+              "Tuesday": true,
+              "Wednesday": true,
+              "Thursday": true,
+              "Friday": true,
+              "Saturday": true
+            }
+          }
+        ]
+      },
+      {
+        "Tour": "GRSADV",
+        "Location": "IM",
+        "Date": null,
+        "ToDate": 2,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": [
+          {
+            "startDate": "2022/05/08",
+            "endDate": null,
+            "week": {
+              "Sunday": true,
+              "Monday": false,
+              "Tuesday": true,
+              "Wednesday": true,
+              "Thursday": true,
+              "Friday": true,
+              "Saturday": true
+            }
+          }
+        ]
+      },
+      {
+        "Tour": "ROYSPREMIUM",
+        "Location": "IM",
+        "Date": null,
+        "ToDate": 2,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": [
+          {
+            "startDate": "2022/05/08",
+            "endDate": null,
+            "week": {
+              "Sunday": true,
+              "Monday": false,
+              "Tuesday": true,
+              "Wednesday": true,
+              "Thursday": true,
+              "Friday": true,
+              "Saturday": true
+            }
+          }
+        ]
+      },
+      {
+        "Tour": "ROYS",
+        "Location": "IM",
+        "Date": null,
+        "ToDate": 2,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": []
+      },
+      {
+        "Tour": "SADV",
+        "Location": "IM",
+        "Date": null,
+        "ToDate": 2,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": []
+      },
+      {
+        "Tour": "ENCO",
+        "Location": "IM",
+        "Date": null,
+        "ToDate": 2,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": []
+      },
+      {
+        "Tour": "IDB",
+        "Location": "IM",
+        "Date": null,
+        "ToDate": 2,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": []
+      },
+      {
+        "Tour": "SLDP",
+        "Location": "IM",
+        "Date": null,
+        "ToDate": 2,
+        "Week": {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        },
+        "NextDates": []
+      }
+    ]
+  }
+}

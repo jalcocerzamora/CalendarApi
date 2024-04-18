@@ -1,0 +1,381 @@
+﻿<Root>
+  <Site>
+    <Id>508</Id>
+    <Name>Spanish</Name>
+    <Page>
+      <Id_page>1</Id_page>
+      <Url>/garrafon</Url>
+      <Title>Parque Natural Garrafón en Isla Mujeres | Parque Garrafon</Title>
+      <Keywords>Parque Garrafon Parque Natural de Arrecifes Garrafon, Isla Mujeres, Parque Natural Garrafon, Tours a Isla Mujeres</Keywords>
+      <Description>Parque Garrafon lugar ideal para todos los que quieren vivir el mejor tour a Isla Mujeres. ¡No todos los tesoros están escondidos!</Description>
+    </Page>
+    <Page>
+      <Id_page>2</Id_page>
+      <Url>/parque-natural</Url>
+      <Title>Información de Parque Garrafón en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Informacion del Parque Garrafón, Parque Garrafón, Todo sobre el Parque Garrafón</Keywords>
+      <Description>Garrafón es un hermoso parque natural con arrecifes, acantilados y una increíble vista del Mar Caribe. ¡Ven y disfruta!</Description>
+    </Page>
+    <Page>
+      <Id_page>3</Id_page>
+      <Url>/actividades-parque-garrafon</Url>
+      <Title>Actividades en Isla Mujeres - Cancún| Parque Garrafón</Title>
+      <Keywords>Actividades en Cancún, Actividades en Isla Mujeres, Qué hacer en Isla Mujeres, Actividades en Parque Garrafón</Keywords>
+      <Description>Parque Garrafon ofrece una gran variedad de actividades como snorkel, kayaks, tirolesa y muchisimo más. Descubre las mejores actividades en Isla Mujeres.</Description>
+    </Page>
+    <Page>
+      <Id_page>4</Id_page>
+      <Url>/actividades/alberca-paronamica-parque-garrafon</Url>
+      <Title>Alberca Panorámica de Parque Garrafón</Title>
+      <Keywords>Alberca Panoramica, Parque Garrafón, Isla Mujeres, Alberca Panoramica en Parque Garrafón</Keywords>
+      <Description> Disfruta la vista del paraíso dentro del club de playa y toma un buen baño de sol mientras nadas y te relajas en una infinity pool dentro de Parque Garrafón.</Description>
+    </Page>
+    <Page>
+      <Id_page>5</Id_page>
+      <Url>/actividades/tour-snorkel-isla-mujeres</Url>
+      <Title>Tour de Snorkel en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Tour de Snorkel en Isla Mujeres, lugares para hacer Snorkel en Isla Mujeres, Snorkel en Isla Mujeres</Keywords>
+      <Description>El tour de snorkel en Isla Mujeres es una experiencia que nos muestra el mundo marino y sus arrecifes ¡Descúbre sus increíbles especies!</Description>
+    </Page>
+    <Page>
+      <Id_page>6</Id_page>
+      <Url>/actividades/acantilado-punta-sur-isla-mujeres</Url>
+      <Title>Acantilado Punta Sur en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Punta sur en Isla Mujeres, entrada a punta sur, Admisión punta sur en Isla Mujeres</Keywords>
+      <Description>Localizada en el extremo sur de Isla Mujeres, donde los primeros rayos de sol tocan el Caribe mexicano en cada amanecer. ¡Ven y descúbrelo! Reserva hoy.</Description>
+    </Page>
+    <Page>
+      <Id_page>7</Id_page>
+      <Url>/actividades/tirolesa-parque-garrafon</Url>
+      <Title>Tirolesa en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Tirolesas en Isla Mujeres, lugares para hacer tirolesa en Isla Mujeres</Keywords>
+      <Description>Si te gustan los deportes extremos ¡Esta actividad es para ti!. Siente que vuelas a toda velocidad de la tirolesa en Isla Mujeres con vista al hermoso mar Caribe</Description>
+    </Page>
+    <Page>
+      <Id_page>8</Id_page>
+      <Url>/actividades/nadar-con-delfines-cancun-isla-mujeres</Url>
+      <Title>Nado con Delfines en Cancún + Parque Garafón</Title>
+      <Keywords>Paquetes para Nadar con Delfines en Isla Mujeres, Nado con Delfines + Parque Garrafón, Paquetes de tours + Nados con Delfines</Keywords>
+      <Description>Dolphin Discovery es el lugar ideal que hace de tus actividades en Cancún momentos inolvidables haciendo nado con delfines + admisión en Parque Garrafon.</Description>
+    </Page>
+    <Page>
+      <Id_page>9</Id_page>
+      <Url>/actividades/ceremonia-temazcal-isla-mujeres</Url>
+      <Title>Ceremonia de Temazcal en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Actividades de temazcal en Isla Mujeres,Servicios de Parque Garrafón, Temazcal en Parque Garrafón</Keywords>
+      <Description>Purifica tu energía desde el vientre de la Madre Tierra sanando tu cuerpo, mente y alma. ¡Renace en esta cermeonia de Temazcal en Isla Mujeres!</Description>
+    </Page>
+    <Page>
+      <Id_page>10</Id_page>
+      <Url>/actividades/hamacas-camastros</Url>
+      <Title>Hamacas en Parque Garrafón | Isla Mujeres</Title>
+      <Keywords>Hamacas en Parque Garrafón, Hamacas en Isla Mujeres, Servicios Parque Garrafón</Keywords>
+      <Description>Ven a Parque Garrafón y relájate en una de nuestras hamacas y relajate en nuestros cómodos camastros ¡Te esperamos!</Description>
+    </Page>
+    <Page>
+      <Id_page>11</Id_page>
+      <Url>/actividades/kayaks-parque-garrafon</Url>
+      <Title>Kayak en Parque Garrafón</Title>
+      <Keywords>Tour de kayak en Isla Mujeres, Tour de kayak en cancun, Lugares para hacer kayak en Isla Mujeres</Keywords>
+      <Description> Atrévete a remar esta experiencia de kayak en Cancún Isla Mujeres viviendo al extremo tus vacaciones y siendo testigo de la increíble vista del Mar Caribe.</Description>
+    </Page>
+    <Page>
+      <Id_page>12</Id_page>
+      <Url>/paquetes-de-tours-isla-mujeres</Url>
+      <Title>Paquetes de Tours a Isla Mujeres, Cancún | Parque Garrafón</Title>
+      <Keywords>paquetes parque garrafon, paquetes para nadar con delfines + parque garrafon, paquetes para actividades en isla mujeres</Keywords>
+      <Description>Conoce los mejores paquetes de Parque Garrafón y tours a Isla Mujeres desde Cancún + Nado con Delfines y ¡Mucho más!</Description>
+    </Page>
+    <Page>
+      <Id_page>13</Id_page>
+      <Url>/precios-admisiones-parque-garrafon-isla-mujeres</Url>
+      <Title>Precios de Admisiones a Parque Garrafón Isla Mujeres</Title>
+      <Keywords>paquetes parque garrafon, paquetes para nadar con delfines + parque garrafon, paquetes para actividades en isla mujeres</Keywords>
+      <Description>Mira los precios de las admisiones a Parque Garrafón ¡el Mejor Tour a Isla Mujeres!, vive experiencias únicas, con la mejor vista de toda la Isla.</Description>
+    </Page>
+    <Page>
+      <Id_page>14</Id_page>
+      <Url>/paquetes/nado-con-delfines-royal-dolphin-swim-vip/</Url>
+      <Title>Paquete Royal Swim +Admisión VIP a Parque Garrafón | Parque Garrafón</Title>
+      <Keywords>Nadar con Delfines, Royal Garrafón, Dolphin Royal Swim, Parque Garrafón</Keywords>
+      <Description>Este paquete te permite vivir la mejor experiencia VIP en Isla Mujeres, Nado con Delfines + Parque Garrafón VIP. Reserva aqui.</Description>
+    </Page>
+    <Page>
+      <Id_page>15</Id_page>
+      <Url>/paquetes/nado-con-delfines-royal-garrafon/</Url>
+      <Title>Admisión Básica a Parque Garrafón en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Admisión a Parque Garrafón, Precio Parque Garrafón, Royal Garrafón</Keywords>
+      <Description>El paquete de Royal Garrafón crea el balance ideal entre aventura y relajación. Los visitantes disfrutarán de las instalaciones y atracciones del Parque Garrafón.</Description>
+    </Page>
+    <Page>
+      <Id_page>16</Id_page>
+      <Url>/paquetes/nado-con-delfines-dolphin-encounter/</Url>
+      <Title>Nado con Delfines en Isla Mujeres + Parque Garrafón | Parque Garrafón</Title>
+      <Keywords>Nadar con Delfines + Parque Garrafón, Paquetes para Nadar con Delfines, Paquetes Parque Garrafón</Keywords>
+      <Description>Ten un encuentro con Delfines en Isla Mujeres y visita el Parque Garrafón el mismo día. Un gran paquete para visitar Isla Mujeres ¡Reserva hoy!</Description>
+    </Page>
+    <Page>
+      <Id_page>17</Id_page>
+      <Url>/paquetes/nado-con-delfines-swim-adventure/</Url>
+      <Title>Paquete Swim Adventure + Admisión a Parque Garrafón | Parque Garrafón</Title>
+      <Keywords>Swim Adventure + Royal Garrafón, Paquetes para Nadar con Delfines, Paquetes para tours a Isla Mujeres</Keywords>
+      <Description>El swim adventure es uno de las mejores nados con Delfines en Cancún, aprovecha este paquete para vivirlo en Parque Garrafón ¡Reserva hoy!</Description>
+    </Page>
+    <Page>
+      <Id_page>18</Id_page>
+      <Url>/paquetes/nado-con-delfines-royal-garrafon-vip/</Url>
+      <Title>Admisión VIP al Parque Garrafón en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Actividades VIP en Isla Mujeres, Paquete Parque Garrafón VIP, Admisión VIP Parque Garrafón</Keywords>
+      <Description>Disfruta del Parque Garrafón con la experiencia VIP. Incluye zona exclusiva para tus alimentos y bebidas, lockers, camastros y psicina exclusiva.</Description>
+    </Page>
+    <Page>
+      <Id_page>19</Id_page>
+      <Url>/promociones-descuentos</Url>
+      <Title>Promociones de actividades en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Promociones en isla mujeres, Parque Garrafón, Descuentos en Parque Garrafón</Keywords>
+      <Description>Disfruta de las promociones en Isla Mujeres que tenemos para ti. ¡Vive una gran aventura en el Parque Garrafón! ¡Reserva hoy!</Description>
+    </Page>
+    <Page>
+      <Id_page>20</Id_page>
+      <Url>/promociones-quintanarroenses</Url>
+      <Title>Descuentos y promociones para quintanarroenses | Parque Garrafón</Title>
+      <Keywords>Descuentos para quintanarroenses, Precios Parque Garrafón para quintanarroenses, Promociones para quintanarroenses</Keywords>
+      <Description>Los mejores precios y descuentos para quintanarroenses se encuentran en Parque Garrafón. Ven a relajarte y conoce los tesoros de Isla Mujeres.</Description>
+    </Page>
+    <Page>
+      <Id_page>21</Id_page>
+      <Url>/instalaciones-parque-natural-isla-mujeres</Url>
+      <Title>Instalaciones del Parque Garrafón en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Instalaciones del Parque Garrafón, Servicios del Parque Garrafón</Keywords>
+      <Description>Todo lo que necesitas en un solo lugar: Restaurante, Bar, Alberca, Baños, Regaderas, Vestidores, Lockers, Hamacas, Camastros, Toallas. ¡Descúbrenos!</Description>
+    </Page>
+    <Page>
+      <Id_page>22</Id_page>
+      <Url>/como-llegar-isla-mujeres</Url>
+      <Title>¿Cómo llego a Parque Garrafón desde Cancún? | Parque Garrafón</Title>
+      <Keywords>Cómo llegar al Paque Garrafón, Ubicación del Parque Garrafón</Keywords>
+      <Description>A sólo 25 minutos en barco desde Marina Aquatours en la bella ciudad de Cancún. Parque Garrafón se localiza en la punta sur de Isla Mujeres. ¡Visítanos!</Description>
+    </Page>
+    <Page>
+      <Id_page>23</Id_page>
+      <Url>/contactanos</Url>
+      <Title>¿Tienes preguntas sobre Parque Garrafón? | Parque Garrafón</Title>
+      <Keywords>Contacto Parque Garrafón</Keywords>
+      <Description>Contáctanos: puedes llamarnos, mandar un correo electrónico o hablar por el chat. ¡Estamos para servirte!</Description>
+    </Page>
+    <Page>
+      <Id_page>24</Id_page>
+      <Url>/grupos</Url>
+      <Title>Actividades para grupos en Isla Mujeres | Parque Garrafón</Title>
+      <Keywords>Actividades para grupos en Isla Mujeres, Actividades para grupos en Parque Garrafón</Keywords>
+      <Description>Elige el Paraíso para enriquecer el trabajo en equipo; disfruten de las mejores actividades para grupos en Parque Garrafón.</Description>
+    </Page>
+    <Page>
+      <Id_page>25</Id_page>
+      <Url>/cancun</Url>
+      <Title>Conoce toda la información sobre Cancún | Parque Garrafón</Title>
+      <Keywords>Informacion sobre Cancún, Actividades en Cancún, Datos sobre Cancún</Keywords>
+      <Description>Visita Cancún y vive una experiencia inolvidable. Descubre todas las actividades que puedes hacer en esta bella ciudad. Más info.</Description>
+    </Page>
+    <Page>
+      <Id_page>26</Id_page>
+      <Url>/aviso-privacidad</Url>
+      <Title>Aviso de Privacidad | Parque Garrafón</Title>
+      <Keywords>Parque Garrafón Aviso de Privacidad</Keywords>
+      <Description>Aviso de Privacidad forma parte del uso del sitio web de Parque Garrafón en el idioma español. Recomendamos leerlo, antes de navegar el sitio.</Description>
+    </Page>
+    <Page>
+      <Id_page>27</Id_page>
+      <Url>/faqs</Url>
+      <Title>Preguntas Frecuentes | Parque Garrafón</Title>
+      <Keywords>Cómo llegar a Isla Mujeres, Ir de Cancún a Isla Mujeres, Preguntas sobre Parque Garrafón</Keywords>
+      <Description>¿Tienes alguna duda acerca del Parque Garrafón? Ven y resolveremos todas tus preguntas. Disfruta de este hermoso Parque en Isla Mujeres.</Description>
+    </Page>
+    <Page>
+      <Id_page>28</Id_page>
+      <Url>/terminos-y-condiciones</Url>
+      <Title>Términos y Condiciones | Parque Garrafón</Title>
+      <Keywords>terminos y condiciones, parque garrafon</Keywords>
+      <Description>Mira los términos y condiciones del sitio web de Parque Garrafón, donde nuestro compromiso radica en la confidencialidad de tus datos personales.</Description>
+    </Page>
+  </Site>
+  <Site>
+    <Id>507</Id>
+    <Name>English</Name>
+    <Page>
+      <Id_page>29</Id_page>
+      <Url>/</Url>
+      <Title>Garrafon Natural Park in Isla Mujeres | Cancun Tour, Mexico</Title>
+      <Keywords>Garrafon Park, Garrafon Reef Natural Park, Isla Mujeres, Garrafon Natural Park, Tours to Isla Mujeres</Keywords>
+      <Description>Garrafon Park is an ideal place for all those who want to experience the best tour of Isla Mujeres. Not all treasures are hidden!</Description>
+    </Page>
+    <Page>
+      <Id_page>30</Id_page>
+      <Url>/activities/snorkeling-tour-isla-mujeres-cancun</Url>
+      <Title> Snorkeling Tour in Isla Mujeres | Garrafon Park</Title>
+      <Keywords>Snorkeling Tour in Isla Mujeres, Places to Snorkel in Isla Mujeres, Snorkel in Isla Mujeres</Keywords>
+      <Description> The snorkeling tour in Isla Mujeres is an experience that shows us the marine world and its reefs. Discover its incredible species!</Description>
+    </Page>
+    <Page>
+      <Id_page>31</Id_page>
+      <Url>/isla-mujeres-deals-discounts</Url>
+      <Title>Deals for Cancun, Isla Mujeres Tours| Garrafon Park</Title>
+      <Keywords>deals in Isla Mujeres, Garrafón Park, Discounts in Garrafón Park</Keywords>
+      <Description>Enjoy the deals and discounts in Isla Mujeres that we have for you. Live a great adventure in Garrafón Park! Reserve today!</Description>
+    </Page>
+    <Page>
+      <Id_page>32</Id_page>
+      <Url>/packages/royal-dolphin-swim-vip/</Url>
+      <Title>Royal Swim Package + VIP Admission | Garrafón Park</Title>
+      <Keywords>Swim with Dolphins, Royal Garrafón, Dolphin Royal Swim, Garrafón Park</Keywords>
+      <Description>This package allows you to live the best VIP experience in Isla Mujeres, Swim with Dolphins + Garrafón VIP Park. Reserve here!</Description>
+    </Page>
+    <Page>
+      <Id_page>33</Id_page>
+      <Url>/isla-mujeres-reef-park</Url>
+      <Title>Garrafón Natural Reef Park at Isla Mujeres | Garrafón Park</Title>
+      <Keywords>Garrafón Natural Reef Park, Garrafón Park, All about Garrafón Park</Keywords>
+      <Description>Garrafón is a beautiful natural park with reefs, cliffs and an incredible view of the Caribbean Sea. Come and enjoy!</Description>
+    </Page>
+    <Page>
+      <Id_page>34</Id_page>
+      <Url>/activities/isla-mujeres-beach-club-swimming-pool</Url>
+      <Title>Garrafon Park Infinity Pool</Title>
+      <Keywords>Infinity Pool, Garrafón Park, Isla Mujeres, Panoramic Pool in Garrafón Park</Keywords>
+      <Description>Enjoy the view of paradise inside the beach club and take a good sunbath while you swim and relax in an infinity pool inside Garrafon Park.</Description>
+    </Page>
+    <Page>
+      <Id_page>35</Id_page>
+      <Url>/activities/kayaks</Url>
+      <Title>Kayak in Garrafon Park</Title>
+      <Keywords>Kayak tour in Isla Mujeres, Kayak tour in cancun, Places to kayak in Isla Mujeres</Keywords>
+      <Description>Dare to paddle this experience on a kayak in Garrafon Park, living your vacation to the extreme and witnessing the incredible view of the Caribbean Sea.</Description>
+    </Page>
+    <Page>
+      <Id_page>36</Id_page>
+      <Url>/things-to-do-cancun</Url>
+      <Title>Things to Do in Cancun - Isla Mujeres | Garrafon Park</Title>
+      <Keywords>Information about Cancun, Activities in Cancun, Facts about Cancun</Keywords>
+      <Description>Visit Cancun and live an unforgettable experience. Discover all things to do in this beautiful city. Visit our Website.</Description>
+    </Page>
+    <Page>
+      <Id_page>37</Id_page>
+      <Url>/contact-us</Url>
+      <Title>Contact Us for Reservations | Garrafon Park</Title>
+      <Keywords>Contact Garrafón Park</Keywords>
+      <Description>Contact us for Reservations: you can call us, send us an email or chat. We're here to serve you!</Description>
+    </Page>
+    <Page>
+      <Id_page>38</Id_page>
+      <Url>/activities/temazcal</Url>
+      <Title>Temazcal Ceremony in Isla Mujeres | Garrafon Park</Title>
+      <Keywords>Temazcal Mayan ritual in Isla Mujeres, Garrafón Park Services, Temazcal in Garrafón Park</Keywords>
+      <Description>Purify your energy from the womb of Mother Earth by healing your body, mind, and soul. Be reborn in this temazcal ceremony in Isla Mujeres!</Description>
+    </Page>
+    <Page>
+      <Id_page>39</Id_page>
+      <Url>/packages/cancun-dolphin-encounter-royal-garrafon/</Url>
+      <Title>Dolphin Encounter + Royal Garrafon Tour | Garrafon Park</Title>
+      <Keywords>Swim with Dolphins + Garrafón Park, Packages to Swim with Dolphins, Garrafón Park Packages</Keywords>
+      <Description>Enjoy the benefits of the temazcal in Isla Mujeres Parque Garrafón</Description>
+    </Page>
+    <Page>
+      <Id_page>40</Id_page>
+      <Url>/tour-packages-to-isla-mujeres</Url>
+      <Title>Tour Packages to Isla Mujeres, Cancun | Garrafon Park</Title>
+      <Keywords>Garrafon Park packages, packages to swim with dolphins + Garrafon Park, packages for activities in Isla Mujeres</Keywords>
+      <Description>Discover the best tour packages to Isla Mujeres of Garrafon Park, Swim with Dolphins, get into a temazcal, ziplines, and much more!</Description>
+    </Page>
+    <Page>
+      <Id_page>41</Id_page>
+      <Url>/admissions-prices-to-garrafon-park-isla-mujeres</Url>
+      <Title>Admissions Prices to Garrafon Park Isla Mujeres</Title>
+      <Keywords>Garrafon Park packages, packages to swim with dolphins + Garrafon Park, packages for activities in Isla Mujeres</Keywords>
+      <Description>Look at the dmissions prices to Garrafón Park the Best Tour to Isla Mujeres, live unique experiences, the best view of the entire Island!</Description>
+    </Page>
+    <Page>
+      <Id_page>42</Id_page>
+      <Url>/groups</Url>
+      <Title>Activities for groups in Isla Mujeres | Garrafón Park</Title>
+      <Keywords>Activities for groups in Isla Mujeres, Activities for groups in Parque Garrafón</Keywords>
+      <Description>Choose Paradise to enrich teamwork; enjoy the best activities for groups in Garrafón Park.</Description>
+    </Page>
+    <Page>
+      <Id_page>43</Id_page>
+      <Url>/how-to-get-there</Url>
+      <Title>How do I get to Parque Garrafón from Cancun? | Garrafón Park</Title>
+      <Keywords>How to get to Garrafón Park, Garrafón Park Location</Keywords>
+      <Description>Only 25 minutes by boat from Marina Aquatours in the beautiful city of Cancun. Garrafón Park is located on the southern tip of Isla Mujeres. Visit us!</Description>
+    </Page>
+    <Page>
+      <Id_page>44</Id_page>
+      <Url>/activities/zip-line</Url>
+      <Title>Zip Line in Isla Mujeres | Garrafon Park</Title>
+      <Keywords>Zip lines in Isla Mujeres, places to zip line in Isla Mujeres</Keywords>
+      <Description>Live the thrill of flying over the Caribbean Sea of ​​Isla Mujeres on the Garrafón Park zip line. We are waiting for you waiting to live the adventure.</Description>
+    </Page>
+    <Page>
+      <Id_page>45</Id_page>
+      <Url>/privacy-policy</Url>
+      <Title>Privacy Policy | Garrafon Park</Title>
+      <Keywords>Garrafón Park Privacy Policy</Keywords>
+      <Description>Privacy Policy is part of the use of the Parque Garrafón website in the Spanish language. We recommend reading it, before browsing the site.</Description>
+    </Page>
+    <Page>
+      <Id_page>46</Id_page>
+      <Url>/faqs</Url>
+      <Title>FAQs | Garrafon Reef Park Official Site</Title>
+      <Keywords>How to get to Isla Mujeres, Go from Cancun to Isla Mujeres, Questions about Garrafón Park</Keywords>
+      <Description>Do you have any questions about Garrafón Park? Come and we will solve all your questions. Enjoy this beautiful Park in Isla Mujeres.</Description>
+    </Page>
+    <Page>
+      <Id_page>47</Id_page>
+      <Url>/packages/royal-garrafon/</Url>
+      <Title>Royal Garrafon Tour from Cancun | Garrafon Park</Title>
+      <Keywords>Admission to Garrafón Park, Garrafón Park Price, Royal Garrafón</Keywords>
+      <Description>The Royal Garrafón package creates the ideal balance between adventure and relaxation. Visitors will enjoy the facilities and attractions of the Garrafón Park.</Description>
+    </Page>
+    <Page>
+      <Id_page>48</Id_page>
+      <Url>/packages/royal-garrafon-vip/</Url>
+      <Title>VIP admission to Garrafón Park in Isla Mujeres | Garrafón Reef Park</Title>
+      <Keywords>Swim with Dolphins, Royal Garrafón, Dolphin Royal Swim, Garrafón Park</Keywords>
+      <Description>This package allows you to live the best VIP experience in Isla Mujeres, Swim with Dolphins + Garrafón VIP Park. Reserve here.</Description>
+    </Page>
+    <Page>
+      <Id_page>49</Id_page>
+      <Url>/isla-mujeres-activities</Url>
+      <Title>Activities in Isla Mujeres - Cancun | Garrafón Reef Park</Title>
+      <Keywords>Activities in Cancun, Activities in Isla Mujeres, What to do in Isla Mujeres, Activities in Garrafón Park</Keywords>
+      <Description>Garrafon Park offers a wide variety of activities such as snorkeling, kayaking, zip lining and much more. Discover the best activities in Isla Mujeres.</Description>
+    </Page>
+    <Page>
+      <Id_page>50</Id_page>
+      <Url>/packages/swim-adventure/</Url>
+      <Title>Dolphin Swim Adventure + Royal Garrafon Admision | Garrafon Park</Title>
+      <Keywords>Swim Adventure + Royal Garrafón, Packages to Swim with Dolphins, Packages for tours to Isla Mujeres</Keywords>
+      <Description>The swim adventure is one of the best swims with dolphins in Cancun, take advantage of this package to experience it in Garrafón Park. Book today!</Description>
+    </Page>
+    <Page>
+      <Id_page>51</Id_page>
+      <Url>/activities/swim-with-dolphins-in-isla-mujeres</Url>
+      <Title> Swim with Dolphins in Cancun + Garrafon Park</Title>
+      <Keywords>Packages to Swim with Dolphins in Isla Mujeres, Swim with Dolphins + Garrafón Park, Tour Packages + Swim with Dolphins</Keywords>
+      <Description>Dolphin Discovery is the ideal place that makes your activities in Cancun unforgettable moments by swimming with dolphins + Garrafon Park.</Description>
+    </Page>
+    <Page>
+      <Id_page>52</Id_page>
+      <Url>/activities/isla-mujeres-hammocks-lounge-chairs</Url>
+      <Title>Hammocks on Isla Mujeres | Garrafón Reef Park</Title>
+      <Keywords>Hammocks in Garrafón Park, Hammocks in Isla Mujeres, Garrafón Park Services</Keywords>
+      <Description>Come to Garrafón Reef Park and relax in one of our hammocks and relax in our comfortable lounge chairs. We are waiting for you!</Description>
+    </Page>
+    <Page>
+      <Id_page>53</Id_page>
+      <Url>/terms-and-conditions</Url>
+      <Title>Terms and Conditions | Garrafon Park</Title>
+      <Keywords>terms and conditions, garrafon park</Keywords>
+      <Description>Look at the terms and conditions of Garrafon Park website, where our commitment lies in the confidentiality of your data.</Description>
+    </Page>
+  </Site>
+</Root>

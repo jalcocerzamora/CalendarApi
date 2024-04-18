@@ -1,0 +1,1340 @@
+﻿{
+  "ByTour": [
+    "CZ",
+    "PS",
+    "OR",
+    "FL",
+    "ML",
+    "GW",
+    "OA",
+    "RM",
+    "DA",
+    "VA",
+    "LC",
+    "DM",
+    "GC",
+    "CC",
+    "PC",
+    "IM",
+    "AK",
+    "NE",
+    "SK"
+  ],
+  "Dates": [
+    {
+      "Tour": "ROYS",
+      "Location": "CZ",
+      "Date": ["2023/07/23", "2023/08/06"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": false,
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023-12-01",
+          "endDate": "2024-01-01",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "SADV",
+      "Location": "CZ",
+      "Date": ["2023/07/23", "2023/08/06"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": false,
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023-12-01",
+          "endDate": "2024-01-01",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ENCO",
+      "Location": "CZ",
+      "Date": ["2023/07/23", "2023/08/06"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/07/15",
+          "endDate": "2023/08/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "SDIS",
+      "Location": "CZ",
+      "Date": ["2023/07/23", "2023/08/06"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/07/15",
+          "endDate": "2023/08/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "MANATENC",
+      "Location": "CZ",
+      "Date": ["2023/07/23", "2023/08/06"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/07/15",
+          "endDate": "2023/08/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "DIVEDOL",
+      "Location": "CZ",
+      "Date": ["2023/07/23", "2023/08/06"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/07/15",
+          "endDate": "2023/08/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "PS",
+      "Location": "PS",
+      "Dates": [],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/01/01",
+          "endDate": "2024/08/01",
+          "week": {
+            "Sunday": false,
+            "Monday": false,
+            "Tuesday": false,
+            "Wednesday": false,
+            "Thursday": false,
+            "Friday": false,
+            "Saturday": false
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "OR",
+      "Location": "OR",
+      "ToDate": 0,
+      "Date": [
+        "2023/11/02",
+        "2023/11/09",
+        "2023/11/13",
+        "2023/11/16",
+        "2023/11/20",
+        "2023/11/30",
+        "2023/12/04",
+        "2023/12/07"
+      ],
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/03/06",
+          "endDate": "2023/03/06",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "FL",
+      "Location": "FL",
+      "Dates": [],
+      "ToDate": 5,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": []
+    },
+    {
+      "Tour": "ML",
+      "Location": "ML",
+      "Dates": [],
+      "ToDate": 2,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": []
+    },
+    {
+      "Tour": "GW",
+      "Location": "GW",
+      "Dates": [],
+      "ToDate": 2,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": []
+    },
+    {
+      "Tour": "SASP",
+      "Location": "OA",
+      "ToDate": 1,
+      "Date": ["2022/09/15", "2022/09/16", "2022/09/17", "2022/09/24"],
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      }
+    },
+    {
+      "Tour": "SADV",
+      "Location": "OA",
+      "ToDate": 1,
+      "Date": ["2022/09/15", "2022/09/16", "2022/09/17", "2022/09/24"],
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      }
+    },
+    {
+      "Tour": "ROYS",
+      "Location": "OA",
+      "ToDate": 1,
+      "Date": ["2022/09/15", "2022/09/16", "2022/09/17", "2022/09/24"],
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      }
+    },
+    {
+      "Tour": "OSRE",
+      "Location": "OA",
+      "ToDate": 1,
+      "Date": ["2022/09/15", "2022/09/16", "2022/09/17", "2022/09/24"],
+      "Week": {
+        "Sunday": false,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": true
+      }
+    },
+    {
+      "Tour": "CARPIRA",
+      "Location": "OA",
+      "ToDate": 1,
+      "Date": ["2022/09/15", "2022/09/16", "2022/09/17", "2022/09/24"],
+      "Week": {
+        "Sunday": false,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/01/19",
+          "endDate": "2023/05/31",
+          "week": {
+            "Sunday": false,
+            "Monday": false,
+            "Tuesday": false,
+            "Wednesday": false,
+            "Thursday": false,
+            "Friday": false,
+            "Saturday": false
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "BUCAT",
+      "Location": "OA",
+      "ToDate": 1,
+      "Date": ["2022/09/15", "2022/09/16", "2022/09/17", "2022/09/24"],
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/01/19",
+          "endDate": "2023/05/31",
+          "week": {
+            "Sunday": false,
+            "Monday": false,
+            "Tuesday": false,
+            "Wednesday": false,
+            "Thursday": false,
+            "Friday": false,
+            "Saturday": false
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ENCO",
+      "Location": "OA",
+      "ToDate": 1,
+      "Date": ["2022/09/15", "2022/09/16", "2022/09/17", "2022/09/24"],
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      }
+    },
+    {
+      "Tour": "RM",
+      "Location": "RM",
+      "Date": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/11/20",
+          "endDate": "2024/01/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "DA",
+      "Location": "DA",
+      "Date": [],
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/11/20",
+          "endDate": "2024/01/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "VA",
+      "Location": "VA",
+      "Date": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/11/16",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "LC",
+      "Location": "LC",
+      "Date": [],
+      "ToDate": 2,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/09/14",
+          "endDate": "2022/09/24",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        },
+        {
+          "startDate": "2022/09/25",
+          "endDate": "2023/04/01",
+          "week": {
+            "Sunday": false,
+            "Monday": false,
+            "Tuesday": false,
+            "Wednesday": false,
+            "Thursday": false,
+            "Friday": false,
+            "Saturday": false
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "DM",
+      "Location": "DM",
+      "Date": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/11/20",
+          "endDate": "2024/01/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "GC",
+      "Location": "GC",
+      "Date": [
+        "2023/10/15",
+        "2023/10/22",
+        "2023/10/29",
+        "2023/11/05",
+        "2023/11/19"
+      ],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/10/01",
+          "endDate": "2023/12/31",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "CC",
+      "Location": "CC",
+      "Dates": [],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/01/01",
+          "endDate": "2023/12/30",
+          "week": {
+            "Sunday": false,
+            "Monday": false,
+            "Tuesday": false,
+            "Wednesday": false,
+            "Thursday": false,
+            "Friday": false,
+            "Saturday": false
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "DOLPHY",
+      "Location": "PC",
+      "Date": ["2023/08/23"],
+      "ToDate": 3,
+      "Week": {
+        "Sunday": false,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": true
+      }
+    },
+    {
+      "Tour": "ROMCO",
+      "Location": "PC",
+      "Date": ["2023/08/23"],
+      "ToDate": 3,
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      }
+    },
+    {
+      "Tour": "ENCO",
+      "Location": "PC",
+      "Date": ["2023/08/23"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/06/27",
+          "endDate": "2022/08/29",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "SADV",
+      "Location": "PC",
+      "Date": ["2023/08/23"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/06/27",
+          "endDate": "2022/08/29",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ROYS",
+      "Location": "PC",
+      "Date": ["2023/08/23"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/06/27",
+          "endDate": "2022/08/29",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "GRENCO",
+      "Location": "IM",
+      "Date": ["2023/05/06"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/11/20",
+          "endDate": "2024/01/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "GRSADV",
+      "Location": "IM",
+      "Date": ["2023/05/06"],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/11/20",
+          "endDate": "2024/01/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ROYSPREMIUM",
+      "Location": "IM",
+      "ToDate": 1,
+      "Date": ["2023/05/06"],
+      "Week": {
+        "Sunday": true,
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/11/20",
+          "endDate": "2024/01/14",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ROYS",
+      "Location": "IM",
+      "Dates": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": false,
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023-12-01",
+          "endDate": "2024-01-01",
+          "week": {
+            "Sunday": false,
+            "Monday": false,
+            "Tuesday": false,
+            "Wednesday": false,
+            "Thursday": false,
+            "Friday": false,
+            "Saturday": false
+          }
+        }
+      ],
+      "Date": []
+    },
+    {
+      "Tour": "SADV",
+      "Location": "IM",
+      "Dates": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/11/21",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ENCO",
+      "Location": "IM",
+      "Dates": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/11/21",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "IDB",
+      "Location": "IM",
+      "Dates": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/11/21",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "SLDP",
+      "Location": "IM",
+      "Dates": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/11/21",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "AK",
+      "Location": "AK",
+      "Dates": [],
+      "ToDate": 1,
+      "Week": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2022/11/21",
+          "week": {
+            "Sunday": true,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "USWIM",
+      "Location": "NE",
+      "Dates": ["2023/12/21", "2023/12/28"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/01",
+          "endDate": "2023/12/20",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": false,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "SWIM",
+      "Location": "NE",
+      "Dates": ["2023/12/21", "2023/12/28"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/01",
+          "endDate": "2023/12/20",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": false,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ENCO",
+      "Location": "NE",
+      "Dates": ["2023/12/21", "2023/12/28"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/01",
+          "endDate": "2023/12/20",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": false,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ROYS",
+      "Location": "SK",
+      "Date": ["2023/06/21"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/12",
+          "endDate": "2023/12/31",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "SADV",
+      "Location": "SK",
+      "Date": ["2023/06/21"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/12",
+          "endDate": "2023/12/31",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ENCO",
+      "Location": "SK",
+      "Date": ["2023/06/21"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/12",
+          "endDate": "2023/12/31",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ROYSM",
+      "Location": "SK",
+      "Date": ["2023/06/21"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/12",
+          "endDate": "2023/12/31",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "SADVM",
+      "Location": "SK",
+      "Date": ["2023/06/21"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/12",
+          "endDate": "2023/12/31",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    },
+    {
+      "Tour": "ENCOM",
+      "Location": "SK",
+      "Date": ["2023/06/21"],
+      "ToDate": 0,
+      "Week": {
+        "Sunday": false,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": false
+      },
+      "NextDates": [
+        {
+          "startDate": "2023/09/12",
+          "endDate": "2023/12/31",
+          "week": {
+            "Sunday": false,
+            "Monday": true,
+            "Tuesday": true,
+            "Wednesday": true,
+            "Thursday": true,
+            "Friday": true,
+            "Saturday": true
+          }
+        }
+      ]
+    }
+  ]
+}

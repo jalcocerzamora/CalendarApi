@@ -1,0 +1,224 @@
+﻿{
+    "Status": 200,
+    "Message": "OK",
+    "ByTour": ["NE", "OR"],
+    "Data": {
+        "Schedules": [
+            {
+                "Tour": "ENCO",
+                "Location": "NE",
+                "Date": [
+                    "2023/08/23"
+                ],
+                "ToDate": 1,
+                "Week": {
+                    "Sunday": false,
+                    "Monday": true,
+                    "Tuesday": true,
+                    "Wednesday": true,
+                    "Thursday": true,
+                    "Friday": true,
+                    "Saturday": true
+                },
+                "NextDates": {
+                    "startDate": null,
+                    "endDate": null,
+                    "datesWithinRange": []
+                }
+            },
+            {
+                "Tour": "GRENCO",
+                "Location": "IM",
+                "Date": [
+                    "2023/10/17",
+                    "2023/10/16",
+                    "2023/10/15"
+                ],
+                "ToDate": "10",
+                "Week": {
+                    "Sunday": false,
+                    "Monday": false,
+                    "Tuesday": false,
+                    "Wednesday": false,
+                    "Thursday": false,
+                    "Friday": false,
+                    "Saturday": false
+                },
+                "NextDates": {
+                    "startDate": "2023/10/01",
+                    "endDate": "2023/10/05",
+                    "datesWithinRange": [
+                        "2023/10/04",
+                        "2023/10/03"
+                    ]
+                }
+            },
+            {
+                "Tour": "GRSADV",
+                "Location": "IM",
+                "Date": [
+                    "2022/02/16",
+                    "2023/02/27",
+                    "2023/03/07",
+                    "2023/03/14"
+                ],
+                "ToDate": "3",
+                "Week": {
+                    "Sunday": true,
+                    "Monday": true,
+                    "Tuesday": true,
+                    "Wednesday": true,
+                    "Thursday": true,
+                    "Friday": true,
+                    "Saturday": true
+                },
+                "NextDates": {
+                    "startDate": "2023/10/01",
+                    "endDate": "2023/10/05",
+                    "datesWithinRange": [
+                        "2023/10/04",
+                        "2023/10/03"
+                    ]
+                }
+            },
+            {
+                "Tour": "ROYSPREMIUM",
+                "Location": "IM",
+                "Date": [],
+                "ToDate": 2,
+                "Week": {
+                    "Sunday": true,
+                    "Monday": true,
+                    "Tuesday": true,
+                    "Wednesday": true,
+                    "Thursday": true,
+                    "Friday": true,
+                    "Saturday": true
+                },
+                "NextDates": {
+                    "startDate": "2023/10/01",
+                    "endDate": "2023/10/05",
+                    "datesWithinRange": [
+                        "2023/10/04",
+                        "2023/10/03"
+                    ]
+                }
+            },
+            {
+                "Tour": "ROYS",
+                "Location": "IM",
+                "Date": [],
+                "ToDate": 2,
+                "Week": {
+                    "Sunday": true,
+                    "Monday": true,
+                    "Tuesday": true,
+                    "Wednesday": true,
+                    "Thursday": true,
+                    "Friday": true,
+                    "Saturday": true
+                },
+                "NextDates": {
+                    "startDate": "2023/10/01",
+                    "endDate": "2023/10/05",
+                    "datesWithinRange": [
+                        "2023/10/04",
+                        "2023/10/03"
+                    ]
+                }
+            },
+            {
+                "Tour": "SADV",
+                "Location": "IM",
+                "Date": [],
+                "ToDate": 2,
+                "Week": {
+                    "Sunday": true,
+                    "Monday": true,
+                    "Tuesday": true,
+                    "Wednesday": true,
+                    "Thursday": true,
+                    "Friday": true,
+                    "Saturday": true
+                },
+                "NextDates": {
+                    "startDate": "2023/10/01",
+                    "endDate": "2023/10/05",
+                    "datesWithinRange": [
+                        "2023/10/04",
+                        "2023/10/03"
+                    ]
+                }
+            },
+            {
+                "Tour": "ENCO",
+                "Location": "IM",
+                "Date": [],
+                "ToDate": 2,
+                "Week": {
+                    "Sunday": true,
+                    "Monday": true,
+                    "Tuesday": true,
+                    "Wednesday": true,
+                    "Thursday": true,
+                    "Friday": true,
+                    "Saturday": true
+                },
+                "NextDates": {
+                    "startDate": "2023/10/01",
+                    "endDate": "2023/10/05",
+                    "datesWithinRange": [
+                        "2023/10/04",
+                        "2023/10/03"
+                    ]
+                }
+            },
+            {
+                "Tour": "IDB",
+                "Location": "IM",
+                "Date": [],
+                "ToDate": 2,
+                "Week": {
+                    "Sunday": true,
+                    "Monday": true,
+                    "Tuesday": true,
+                    "Wednesday": true,
+                    "Thursday": true,
+                    "Friday": true,
+                    "Saturday": true
+                },
+                "NextDates": {
+                    "startDate": "2023/10/01",
+                    "endDate": "2023/10/05",
+                    "datesWithinRange": [
+                        "2023/10/04",
+                        "2023/10/03"
+                    ]
+                }
+            },
+            {
+                "Tour": "SLDP",
+                "Location": "IM",
+                "Date": [],
+                "ToDate": 2,
+                "Week": {
+                    "Sunday": true,
+                    "Monday": true,
+                    "Tuesday": true,
+                    "Wednesday": true,
+                    "Thursday": true,
+                    "Friday": true,
+                    "Saturday": true
+                },
+                "NextDates": {
+                    "startDate": "2023/10/01",
+                    "endDate": "2023/10/05",
+                    "datesWithinRange": [
+                        "2023/10/04",
+                        "2023/10/03"
+                    ]
+                }
+            }
+        ]
+    }
+}
